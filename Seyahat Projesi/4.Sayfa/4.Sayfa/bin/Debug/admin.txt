@@ -1,0 +1,49 @@
+aa: 
+Restoran: Atlantik Fish Restaurant restoranı 1 kişi için 110 ücret ödedi.
+Müze: , OscarshallPalace müzesi 2 kişi için 200 ücret ödedi.
+Otel: GrandVavesOtel oteli 1 kişi için 100 ödedi.
+Tur:  turu  kişi için  ödedi.
+Ulasım: turizm  kişi için  ödedi.
+-----------------------
+as: 
+Restoran: Aspava  restoranı  1 kişi için 95 ücret ödedi.
+Müze: , SakıpSabancıKentMüzesi müzesi 1 kişi için 7 ücret ödedi.
+Otel:  oteli  kişi için  ödedi.
+Tur:  turu  kişi için  ödedi.
+Ulasım: turizm  kişi için  ödedi.
+-----------------------
+seda: 
+Restoran:  restoranı  kişi için  ücret ödedi.
+Müze: ,  müzesi  kişi için  ücret ödedi.
+Otel:  oteli  kişi için  ödedi.
+Tur: ULUTUR turu 2 kişi için 0 ödedi.
+Ulasım: turizm  kişi için  ödedi.
+-----------------------
+seda: 
+Restoran: Kebapçı Yusuf Usta  restoranı 1 kişi için 95 ücret ödedi.
+Müze: , SakıpSabancıKentMüzesi müzesi 2 kişi için 14 ücret ödedi.
+Otel: DaraKonağı oteli 2 kişi için 100 ödedi.
+Tur:  turu  kişi için  ödedi.
+Ulasım: turizm  kişi için  ödedi.
+-----------------------
+0: 
+Restoran: Kebapçı Yusuf Usta  restoranı 0 kişi için 0 ücret ödedi.
+Müze: , SakıpSabancıKentMüzesi müzesi 0 kişi için 0 ücret ödedi.
+Otel: DaraKonağı oteli 0 kişi için 0 ödedi.
+Tur:  turu 0 kişi için 0 ödedi.
+Ulasım: turizm 0 kişi için 0 ödedi.
+-----------------------
+tel: 
+Restoran: Aspava  restoranı 2 kişi için 190 ücret ödedi.
+Müze: , AtatürkveKurtuluşSavaşıMüzesiAnıtkabir müzesi 4 kişi için 28 ücret ödedi.
+Otel: AnkaraHiltonOtel oteli 4 kişi için 6400 ödedi.
+Tur: AKTUR turu 4 kişi için 7200 ödedi.
+Ulasım: turizm  kişi için .... ödedi.
+-----------------------
+gulsum: 
+Restoran: Komoroğlu Köfe Salonu  restoranı 2 kişi için 140 ücret ödedi.
+Müze: , EdebiyatMüzesi müzesi 2 kişi için 0 ücret ödedi.
+Otel: GrandVavesOtel oteli 1 kişi için 100 ödedi.
+Tur: ARIGATOUR turu 2 kişi için 7200000 ödedi.
+Ulasım: turizm 1 kişi için .... ödedi.
+-----------------------
